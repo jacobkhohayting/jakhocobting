@@ -4,7 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a rising high school senior from Florida. My main interests include mathematics, particularly discrete math, in addition to computer science.
+
+Throughout high school, I've competed in contests, written contests, taught students, and participated in various programs. All of my experience has led to the creation of a ton of fun things including handouts and papers, a personal problem collection, and a few videos to go along.
+
+Here you can see what I've been up to along with some recent checkpoints.
 
 ## Research Interests
 
