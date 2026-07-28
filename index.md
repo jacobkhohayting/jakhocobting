@@ -20,6 +20,8 @@ Here you can see what I've been up to along with some recent checkpoints.
 - **[Mar. 2026]** Attended CMIMC 2026! Individually, I ranked in the top 50 in Geometry.
 - **[Feb. 2026]** Attended HMMT 2026! Individually, I won 7th in Geometry.
 
-{% include_relative _includes/publications.md %}
 
+{% comment %}
+{% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
+{% endcomment %}
