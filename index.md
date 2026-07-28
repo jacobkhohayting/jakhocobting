@@ -12,7 +12,8 @@ Aside from studying, I love sports: soccer, swimming, and basketball, in particu
 
 ## What I'm Up To
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- Currently spending six weeks at PROMYS 2026. In particular, I am studying Class Number Formulas and Graph Theory, as well as research Pseudoperfect Numbers.
+- Preparing for a summer course for GroupSolve, a non-profit organization I founded.
 
 ## Recent Checkpoints
 
