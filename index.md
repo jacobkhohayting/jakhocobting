@@ -18,20 +18,6 @@ Here you can see what I've been up to along with some recent checkpoints.
 
 - **Computer Vision:** image recognition, image generation, video captioning
 
-## Papers & Handouts
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Affine Transformation:**
-
-## Teaching
-
-- **GroupSolve:**
-
-## Problem Collection
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
 ## News
 
 - **[Jun. 2026]** Returned to PROMYS.
