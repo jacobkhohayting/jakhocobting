@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-[← Back to About Me](https://jacobkhohayting.github.io/jakhocobting/)
+[← Back to Home](https://jacobkhohayting.github.io/jakhocobting/)
 
 ## Teaching
 
