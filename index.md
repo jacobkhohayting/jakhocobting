@@ -8,7 +8,7 @@ I am a rising high school senior from Florida. My main interests include mathema
 
 Throughout high school, I've competed in contests, written contests, taught students, and participated in various programs. All of my experience has led to the creation of a ton of fun things including [handouts and papers](https://jacobkhohayting.github.io/jakhocobting/handoutsandpapers), a [personal problem collection](https://jacobkhohayting.github.io/jakhocobting/problemcreation), as well as [my teaching career and a few videos](https://jacobkhohayting.github.io/jakhocobting/teachingandvideos.html) to go along.
 
-Aside from studying, I love sports: soccer, swimming, and basketball, in particular. But also frisbee and running!
+Aside from studying, I love sports: soccer, swimming, and basketball, in particular. But also frisbee and running! My goal is to get into biking, but unfortunately, bikes are not easily attainable.
 
 ## What I'm Up To
 
