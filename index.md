@@ -16,10 +16,6 @@ Here you can see what I've been up to along with some recent checkpoints.
 
 ## Recent Checkpoints
 
-- **Computer Vision:** image recognition, image generation, video captioning
-
-## News
-
 - **[Jun. 2026]** Returned to PROMYS.
 - **[Mar. 2026]** Attended CMIMC 2026! Individually, I ranked in the top 50 in Geometry.
 - **[Feb. 2026]** Attended HMMT 2026! Individually, I won 7th in Geometry.
