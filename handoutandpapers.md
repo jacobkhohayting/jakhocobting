@@ -2,6 +2,6 @@
 layout: homepage
 ---
 
-## Papers & Handouts
+## Handouts
 
 Throughout high school,
