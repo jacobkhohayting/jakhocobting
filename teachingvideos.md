@@ -5,3 +5,5 @@ layout: homepage
 ## Teaching
 
 Throughout high school,
+
+## Videos
